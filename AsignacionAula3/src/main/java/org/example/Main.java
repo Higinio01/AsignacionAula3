@@ -14,7 +14,7 @@ public class Main {
     private static String modoConexion = "";
 
     public static void main(String[] args) {
-        String mensaje = "Software ORM - JPA";
+        String mensaje = "Aplicacion 2";
         System.out.println(mensaje);
         if(args.length >= 1){
             modoConexion = args[0];
